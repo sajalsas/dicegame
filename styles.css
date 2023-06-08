@@ -12,7 +12,16 @@
 
 body {
   
-  background: url('Five_ivory_dice.jpg');
+  background-image: url("Five_ivory_dice.jpg");
+   
+
+ 
+  height: 100%; 
+
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
